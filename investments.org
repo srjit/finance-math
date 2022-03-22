@@ -1,0 +1,18 @@
+
+
+* ETF: Large Returns
+
+** https://money.usnews.com/funds/etfs/rankings/large-growth
+
+- IUSG (https://money.usnews.com/funds/etfs/large-growth/ishares-core-s-p-us-growth-etf/iusg)
+- JMOM (https://money.usnews.com/funds/etfs/large-growth/jpmorgan-us-momentum-factor-etf/jmom)
+- VONG (https://money.usnews.com/funds/etfs/large-growth/vanguard-russell-1000-growth-etf/vong)
+- VUG (https://money.usnews.com/funds/etfs/large-growth/vanguard-growth-etf/vug)
+
+
+** Questions:
+
++ For 401k do we have only limited number of  ETFs or Mutual Funds (Fidelity)
++ Change portfolio (Risk/ Stability)
+
+
